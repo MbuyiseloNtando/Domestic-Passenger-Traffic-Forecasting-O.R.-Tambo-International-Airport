@@ -83,3 +83,8 @@ Residual diagnostics
 
 Trend and seasonality plots
 
+**Models Evaluation**
+
+<img width="518" height="179" alt="image" src="https://github.com/user-attachments/assets/67fed7b4-6c8b-42ad-a081-2785c0978bb1" />
+
+
